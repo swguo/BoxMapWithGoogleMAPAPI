@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GPSWithGoogleAPI</string>
+    <string name="draw_marker_options_title">Hello</string>
+    <string name="draw_marker_options_snippet">Hello87</string>
+</resources>
